@@ -1,0 +1,15 @@
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.exe
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.deps.json
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\refint\TriangleTypeIdentifier.dll
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\THELMA\Documents\dcit318-assignment1-11124414\TriangleTypeIdentifier\obj\Debug\net9.0\ref\TriangleTypeIdentifier.dll

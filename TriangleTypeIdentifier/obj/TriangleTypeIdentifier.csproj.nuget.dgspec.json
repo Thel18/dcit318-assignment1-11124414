@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THELMA\\Documents\\DCIT318\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj": {}
+    "C:\\Users\\THELMA\\Documents\\dcit318-assignment1-11124414\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THELMA\\Documents\\DCIT318\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj": {
+    "C:\\Users\\THELMA\\Documents\\dcit318-assignment1-11124414\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THELMA\\Documents\\DCIT318\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
+        "projectUniqueName": "C:\\Users\\THELMA\\Documents\\dcit318-assignment1-11124414\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
         "projectName": "TriangleTypeIdentifier",
-        "projectPath": "C:\\Users\\THELMA\\Documents\\DCIT318\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
+        "projectPath": "C:\\Users\\THELMA\\Documents\\dcit318-assignment1-11124414\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
         "packagesPath": "C:\\Users\\THELMA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THELMA\\Documents\\DCIT318\\TriangleTypeIdentifier\\obj\\",
+        "outputPath": "C:\\Users\\THELMA\\Documents\\dcit318-assignment1-11124414\\TriangleTypeIdentifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THELMA\\AppData\\Roaming\\NuGet\\NuGet.Config"
