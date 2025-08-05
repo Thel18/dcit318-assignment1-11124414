@@ -10,15 +10,15 @@ class Program
 
             Console.Write("Side A: ");
             string aInput = Console.ReadLine()?.Trim();
-            if (aInput.Equals("Q", StringComparison.OrdinalIgnoreCase)) break;
+          if ((aInput ?? "").Equals("Q", StringComparison.OrdinalIgnoreCase)) break;
 
             Console.Write("Side B: ");
             string bInput = Console.ReadLine()?.Trim();
-            if (bInput.Equals("Q", StringComparison.OrdinalIgnoreCase)) break;
+            if ((bInput ?? "").Equals("Q", StringComparison.OrdinalIgnoreCase)) break;
 
             Console.Write("Side C: ");
             string cInput = Console.ReadLine()?.Trim();
-            if (cInput.Equals("Q", StringComparison.OrdinalIgnoreCase)) break;
+            if ((cInput ?? "").Equals("Q", StringComparison.OrdinalIgnoreCase)) break;
 
             if (!double.TryParse(aInput, out double a) ||
                 !double.TryParse(bInput, out double b) ||
